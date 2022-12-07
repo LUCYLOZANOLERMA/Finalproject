@@ -20,7 +20,8 @@
     margin-left: 5px;
     margin-bottom: 5px;
     float: right;
-    text-shadow: 4px 4px black;
+    text-align: left black;
+    
   
   }
   .left {
@@ -31,6 +32,7 @@
     box-shadow: 5px 10px rgb(52, 52, 60);
     background-image: url("./img/cottage.png");
     background-size: 90%;
+    text-align: left black;
   
   }
   
