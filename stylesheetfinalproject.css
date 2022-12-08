@@ -50,6 +50,25 @@ font-family: 'Roboto', sans-serif;
     padding-left: 2px;
   
   }
+
+  .center {
+    width: 45%;
+    height: 225px;
+    background-color: lightblue;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    box-shadow: 5px 10px rgb(52, 52, 60);
+    background-size: 100%;
+    text-align: left black;
+    padding-left: 1px;
+    padding-top: -5px;
+    padding-bottom: 5px;
+    image-resolution: 100%;
+    image-resolution: 100%;
+    border-image: round;
+  }
   
   ul {
     list-style-type: none;
